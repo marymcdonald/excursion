@@ -30,7 +30,8 @@ p {
   color: aquamarine;
 }
 
-footer {
+footer p {
+  font-size: 21px;
   text-align: right;
   color: gray;
 }
